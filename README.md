@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ooo3
 - 👀 I’m interested in developing.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me no way.
 
